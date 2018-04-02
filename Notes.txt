@@ -1,0 +1,199 @@
+ONLY THE PARANOID SURVIVE
+
+1. Something has changed:
+    1. Change happens in all businesses. Be ready for the change. New changes bring new rules
+    2. Middle managers discover changes first
+    3. The CEO is often the last one to notice a change, because he is inside a protected fortress.
+    4. We all need to expose ourselves to the winds of change
+    5. Lowest level employees can tell you things you don't know
+
+2. A "10x" change:
+- Strategic inflection points
+- Forces of competitiveness:
+    1. Competitors
+    2. Suppliers
+    3. Customers
+    4. Potential competitors
+    5. Product interchangeability
+    6. Complementors: software needs hardware; cars need gasoline
+- "Things are different. Something has changed"
+- "The industry has gone nuts. It's crazy for what people use computers today"
+- There are many subtle signals that a strategic inflection point is approaching.
+  You should prepare for them while you are healthy
+- When the strategic inflection point happens, all you have is your guts and judgement
+
+3. The Morphing of the Computer Industry:
+- 1980s: Transformations of business: - horses being replaced by railroads
+                                      - small shops being replaced by superstores
+- There's a lot of engineering and low-level chemistry involved in semiconductors
+- [vertical alignment]: the company makes its own software, own hardware, own branding and sells it via its own sales people
+- It's better to specialize in something and sell it to others (trade) than specialize in everything
+- Another problem in this approach was that clients wouldn't be able to pick specific (better) individual components from
+  other companies. They had to stick with the vertical alignment of the initial company
+- This also means, that the clients were "locked in" with the clients they chose for a longer time
+- The competition was ferocious to win clients. Whoever won the client, had business for longer time
+- The introduction of the "10X" microchips came, thus making it more cost-effective to build more powerful chips with the same size
+- The industry changed from [vertical] to [horizontal] => more compatibility problems
+- Prices become lower, but getting things to work - harder => Rise of software companies
+- Competition for mass production has started
+- 1981: Intel choses IBM to provide them with chips
+- Intel became popular, because IBM was the largest player on the market. And that's why Intel produced the largest amount of CPUs.
+  This is why even competitors based their architecture on Intel. You'd rather base your architecture on the largest CPU core.
+- IBM has lost prominence because the shift changed from business mainframe computers to small PCs.
+  Also, the IBMs manager were used to always winning in the past decades
+- Change: When the industry goes through change, the old art practitioners are in trouble.
+- Dell: Started a company which allows you to assemble a custom computer
+- Dell's business model: Accept mail orders for custom computer configurations, assemble them and deliver them directly
+- Unisys: Rather than continuing their old business model, they switched to software, in order to adapt
+- Novell: Were developing  hardware but switched to software as well. They captured the opportunity for networking software
+- When a strategic inflection point approaches, the old companies are reluctant to accept it, while the new ones embrace it
+
+    3.1. The New Rules of the Horizontal industry:
+      1. Do not differentiate without making sure that the change is beneficial for the customer
+      2. Opportunity comes when something breaks. Only the first mover has true possibility to grab the chance of market share
+         - People who fight the wave of new change, eventually fail
+      3. Calculate the market price which the users are willing to pay, then the volume prices, and then work like devil to optimize the other costs to profit
+         - "What the market will bear": We should set prices based on what our customers are willing to pay, not based on our costs.
+         - The above works for "mass production". If you calculate prices based on "costs" you will end up in a niche position
+
+- As the business becomes more competitive, companies are forced to specialize with their core business
+- Horizontal industries are more cost-effective. It's easier to be best at one thing, than being best at several
+
+4. They are everywhere (The strategic inflection points):
+- Reading news has a relation with detecting "10X" changes (e.g. disruptive changes)
+- When you have competition, what has worked before is no longer working
+- How to compete with Walmart: A specialized store (Toys Я Us) or providing an Experience/environment rather than products
+- PC became cheaper than Mac, because there were a lot of manufacturers competing
+- Steve Jobs suffered wit NEXT because he did not adapt to the new reality of the PC market
+- How business cycles work: Competitors deliver a product, we respond, they respond and so on
+- Every once in a while technology changes drastically
+- The attitude of denial of a change is deadly
+- Even Charlie Chaplin couldn't resist in the end the movies with sounds
+- Singapore has emerged as a shipping port, because it adapted the idea of new containers right on time
+  New York did not have a physical room for the new equipment, so it started losing money
+- Fundamental rule in technology: "Whatever that _can_ be done, _will_ be done"
+- You cannot ignore change. You need to adapt to it
+- Harvard Business Review analysis: Businesses fail because companies leave their customers, or the customers leave their companies
+- Everything is a gradual process. The essence is to recognize the process as it forms. Only the Paranoid survive
+- Customer habits do change
+- When you enter the market with a new product, everyone is talking about it
+- However, after the show is done, the person, who is the star of an era, is often the last to adapt to a change
+- In practice, things do not work out that well
+- Intel became the solo producer of microprocessor chips, because their competition simply gave up.
+  They had a "10X" supplier position = Monopoly because the mass production of chips was expensive
+- Patents: Things are always first abused (drugs) before the government finally decides to intervene
+- AT&T: It was a monopoly, but then it was broke down. New competitors entered the market. The Government allowed only local monopolies
+- In general monopolies do not cater to customers
+- Monopolies react very bad when they lose their monopoly (get privatized) and have to compete with the global market
+- Too drastic changes can be fatal
+- A huge mark for a company to be a winner or loser is its adaptability
+- "Adapt or die"
+
+5. Why not do it ourselves?
+- Intel was forced to change its initial business during a crisis period
+- Intel was found in 1968
+- Each startup has a core idea
+- Smaller transistors and closer to each other can transmit electronic signals faster
+- Intel became so big, because transistors became widely used in electronics: VCRs computers, Tablets, Smartphones
+- They initially created transistors for memory
+- They started small: A chip which can store "64 bits" / digits
+- 1969: The have bid on a project to build a "64 bits" chip. They built it first and they won
+- Intel 1103: The world's first DRAM chip
+- Intel is focused on real output: "tangible results"
+- Intel teams argue a lot: "constructive confrontation"
+- Intel had an advantage over competitors, because they designed hardware, and hardware is easier to patent, than software
+  Also, there is not that much people capable of doing hardware design
+- Intel was initially 100% market share of memory chips, then gradually reduced as competitors entered.
+  This resulted in everyone winning a chunk of the cake: "Round 1 goes to Intel, Round 2 goes to Mostek, ..."
+- The Japanese started producing the same thing with lower costs, thanks to their larger production facilities and economies of scale
+  This had forced Intel to seek for a "Premium" niche. This is when they started R&D on microprocessors
+- Intel invested no matter what heavily on R&D and technology.
+- The only way to stay competitive is to keep innovating and discover technology, which is not available to others
+- After a speedy buildup you cannot slow down fast
+- Intel was losing money on memory production, but they still continued with it, because they had money to burn. It ended nowhere
+- A big change must be achieved in smaller steps
+- !: Most of the clients of Intel had already figured out that they will exit the memory business.
+  So they have already made arrangement with other companies. Intel weren't as big as they thought they are
+- People who have no emotional stake at taking a decision can see what needs to be done early
+- CEOs are often replaced during strategic inflection points, because they are emotionally attached to the order which was before.
+  They are often replaced with people from outside
+- Applying an impersonal logic to the situation helps seeing things much clearer
+- Going through strategic inflection points mean having zero emotional attachment
+- "It actually went on better than I've expected" - They knew what was to come. They were relieved.
+- Shutting down old factories gave Intel a chance to modernize the infrastructure. They didn't need them anyway
+  That didn't make it any less painful, though
+- Change always happens from within. First the managers and employees were happy, then the outside world
+- Even though now Intel is in the CPU business, they have side products as well
+- "The Hidden Hand": Middle managers subconsciously take decisions in favor of CPUs than memories
+- People who are in the trenches see the changes first
+
+6. "Signal" or "Noise"?
+- Give things names in order to gain power over them
+- Not every change is "10X" change. Some changes are just "noise", not signals
+- However, still re-estimate the threat and watch if it grows
+- It's like watching blips of a radar
+- Even thought some people might claim otherwise, not every "10X" change is a "10X" change
+- Compatibility is very important
+- Different products/projects require different/more internal resources for development/marketing/sales
+- If you have two competing products, you might end up in the trouble of which one to highlight when meeting with a customer
+- Sometimes, taking a decision of time is - crucial -
+- Teams are often divided to warring camps, with each one 100% sure that they are right
+- "Andy, this is like the fashion business. We need something new."
+- Sometimes the event which signalizes a strategic inflection point is just clear
+- But most of the time changes approach on little cat feet
+
+Ask the following questions about whether something is a strategic inflection point:
+- Key competitors:
+  The "Silver bullet" question: If you had a silver bullet and a gun which one of your opponents would you shoot?
+  If you have multiple competitors with little merit as an answer to this question, then it means that the focus of the competition
+  has significantly changed
+- Key complementor:
+  Is the key complementor/s about to change or be replaced? Then this might signal shifting industry dynamics
+- People around you:
+  Do competent people seem to be "loosing it"?
+- Management is like genetic selection. After you are successful for a long time, your genes might retard
+- If you are not getting "it" anymore, it may be because "it" has now changed
+- Cassandra: A priestess who foretold the fall of Troy
+- "Cassandras" are often middle managers
+- People in sales know best the customer tastes and the adjusting tendencies, because they spend so much time "outside in the real world"
+  where the "real winds are blowing in their faces"
+- Bad products lead to bad sales which means that the sales person will get less commission. This is why they know things first
+- Sales managers feel scared in "enemy territory"
+- When you receive a possible signal of a change, watch how it develops over time, in order to make a good judgement
+- Words do not matter, only facts. Do not listen to what people say. Watch the actions
+- You don't need to search for the "Cassandras". Often they find you
+- It's all sales: Someone who sells a product with passion, will also "sell" their concerns to you
+- Don't argue with them: Listen to them and learn what is that affects them and why it affects them in this way
+- Quality the time spent listening to them as time spent on learning what is happening in the distant ends of the business
+- Snow: When spring comes, snow melts always in the periphery first, because there it is most exposed.
+  Then it gradually starts to melt towards the center.
+- Geographically distant people often also have distant news
+- Then you triangulate all the feedback (distant and near) together
+- People like reading books, instead of random excerpt of sentences, because the whole thing makes sense together and feels complete.
+  It forms a complete story with a beginning and end. This is why people like stories
+- Try to show your point, while also showing the other point constructively as well.
+- Allocation: By natural evolution, middle managers moved wasteful materials from products with little margin to ones with greater margin in
+  order to prevent losses
+- Entrepreneurship: Moving things from areas with lower productivity and yield to areas with higher productivity and yield
+- New products are being constantly hyped up. Once you explore them deeper, you'd see that the are not exactly what they claim to be
+- "Trap of the first version": Everyone is hyped up, but no one knows it will stay for long.
+- 1991: Apple was considering PDAs - Personal Digital Assistants - and everyone thought they could disrupt the industry
+- Apple Newton (Apple PDA) was criticized for its shortcomings
+- Often times, the first version - of anything - sucks and receives a bad acceptance
+- People didn't like the first graphical computer LISA. They thought Windows was just a DOS with a nice face and the PDAs were impractical
+  Years later, they were wrong
+- You can't judge the significance of something by the first version
+- Discussions and debates help bring together different points of view and merge them together
+- Yet, sometimes you have rely only on your gut feeling
+- Fear of losing is essential
+- It is fear which motivates you always to improve
+- Companies which have perfected a certain repetitive task are always full with complacency.
+  But when change happens, it often hits them hardest
+- Managers sometimes fear to bring bad news, out of fear of being punished. This is poisonous for a company
+- So, never "shoot the messenger"
+- Once the fear of bad news spreads in the organization, people become scared of reporting problems
+- Managers never have a chance if "bad news don't reach them"
+- Intel has worked very hard to tear down the walls between people who "have knowledge" and "have power"
+- One is not better than another. One respects another. One is not intimidated by the power or knowledge of another.
+- A culture like this is easy to describe, but hard to create
+- It's all about surviving strategic inflection points and parting ways with those who don't
