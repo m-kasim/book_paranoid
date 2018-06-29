@@ -246,3 +246,101 @@ Ask the following questions about whether something is a strategic inflection po
 - As you discuss new things with people, you make it easier for them to accept the changes
 - Sharing a common industry map in the organization helps everyone to adapt better.
 - This map with guide you to a better direction with greater clarity and higher confidence in your decisions
+
+8. Rein In Chaos:
+"Clarify of a direction, which includes describing what we are going after as well as describing what we will _not_
+be going after, is exceedingly important at the late stage of a strategic transformation"
+- It's like a group of riders traveling through a hostile territory, not knowing where they are going, knowing only
+  that they cannot turn back and that they trust they are going to a better place
+- Going through a strategic inflection point = marching through an unknown territory
+- While you lead through a territory of unknowns, often others lose confidence and you, and then you lose confidence in yourself
+- You cannot skip going through the Valley of Death
+- What is going your company going to do for a living? You need to be able to answer that with a single sentence
+- "Intel, the microprocessor company" - 1985-1986
+- There is the danger of oversimplifying the company and casting a too narrow vision
+- People lose confidence in leaders when they are going in circles
+
+Redeploying resources:
+- Surviving a strategic inflection point involves changes
+- Either people's skills need to be changed or the people will be changed
+- Half of the people managed to transform. The other half left
+- Don't compromise and don't kid yourself
+- Shift production from lower value to higher value
+- Andy Groove realized that he needs to learn more about software - Intel dependent on the development of the software industry!
+- During this time, Andy Groove had to swallow his pride
+- Andy Groove has taken many notes during his software company meetings. The ones he didn't understood - he asked others about it
+- Basically, he went back to school. But this was part of the culture of Intel and it was respected
+- Admitting that you need to learn something is always difficult
+- Do not let your senior position to prevent you from learning new things
+- Andy Groove had to take this "extra time to learn" from other things. He "planned redeployment" of his personal time
+- You try the best you can. People accept the changes.
+- What you dedicate your time to speaks about who you are
+- Strategic change starts from your calendar
+
+Leading via strategic actions:
+- [strategic actions]: Corporate strategy is formed by small actions which you order others to do
+- [plans] sound like speeches and people tend to ignore them; [actions] have immediate impact, because people feel the effect instantly
+- It's more realistic to change a company with small incremental steps than with a grand masterplan
+- When the time is right for a change? When others still believe in you and you still have the resources and the unstoppable decline has not kicked in
+- If something makes more money -> switch more resources to it
+- People always tend to wait too much
+- The consequences of being early are less onerous than those of being late
+- If you act early, even if you are wrong, you will be still less wrong than acting too late!
+- But people are more likely to do things late, than to do them early!
+- Don't be late: The risk is, if you are late, you can lose it all
+- In times of crisis managers often know the direction but are to afraid to jump into it
+- [taillight strategy]: in the fog drive after a car of which the lights can be seen, so you are safe to drive fast
+  the problem with this strategy is that after you pass the leading car, you have no idea where you are going
+- [early movers]: the problem with them is that they have hard time to recognize a [signal] from [noise].
+  - they can overreact to a [noise], thinking it is a [signal].
+  - however, the early movers often define how the game is played
+- [personal computers] became mainstream, because they started having better design, sound and visuals,
+  thus they were no longer used only for business
+- Put all your eggs in the basket, and WATCH THAT BASKET! -> One goal
+- It's hard to exit the Valley of Death if you don't have a single clear goal
+- Only The Paranoid Survive: The competition is chasing you, always.
+- You will get out of the Valley of Death by outrunning the people who chase you
+- People will offer you easier and secure alternatives. No. You cannot hedge. It's too expensive. Instead, you have to focus on a single exit
+- You have to commit yourself to certain pace and certain course while passing the Valley of Death
+- If you are wrong, you will die.
+- But most companies don't die because they are wrong. They die because they don't have a commitment
+- Тhey fritter away their resources and energy
+- The most dangerous thing is sometimes sitting still
+
+The Clarity Imperative:
+- In times of crisis, strong leaders are needed. They are needed to set a direction. It doesn't even need to be the _right_ direction
+  People just need a _direction_ in these times
+- A Japanese CEO responded to a reporter: "Why would I tell you the company strategy? So you can go and help the competitors?!"
+- The truth is, perhaps they didn't have one...
+- Confusion is created via conflicting signals
+- In times of crisis, employees scrutinize and overreact to statements by CEOs
+- [Clarify of direction]:
+   - What we are going after and what we are NOT going after.
+   - What the Valley looks like on the other side
+   - First you let chaos reign, then you rein in chaos
+   - But the time for experimentation ends
+- People tend to listen more what the market says, than what the company says
+- [Role model]: Get involved, shape the details. This has a lot of symbolic value
+- How to accept meetings: "Will going into this meeting increase my knowledge about this subject and is this important?"
+- How to explain your ideas to other people: Get them together, organize meetings, tell them your vision
+- Repetition sharpens the vision
+- Take special time to share your vision with the middle management, so they can amplify it
+- It's better to let employees find the holes in your strategy, than let the market do it later
+- Andrew Grove tries to replies his emails within the day
+- Avoid "one-way" communication channels such as video ads and tapes. Use "two-way" communications like email and Skype
+- New company strategy must be communicated interactively, by hearing what the employees have to say
+
+Adjusting To The New:
+- In order to change the company, you need to change the people
+- Changing the people does not necessarily mean to replace them
+- People who can't or won't adapt must be replaced
+- Good strategic transformation: high level management and low level workers have the same vision
+- Transformation: Top management should let employees experiment and let chaos reign and then after multiple new directions
+  are shown to rein in chaos
+- Intellectual debates inside the company are important for adaptability
+- Organizations must be able to debate and then form clearly accepted visions accepted by everyone
+
+The other side of the Silicon Valley:
+- Few navigated through the nebulous times and succeeded
+- Few will survive, and those who did would never be the same
+- When a 10X change is upon us, you could either accept the changes and adapt, or accept a slow decline - which is not a choice at all!
