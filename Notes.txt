@@ -1,4 +1,5 @@
 ONLY THE PARANOID SURVIVE
+Andrew Grove, 1996
 
 1. Something has changed:
     1. Change happens in all businesses. Be ready for the change. New changes bring new rules
@@ -344,3 +345,47 @@ The other side of the Silicon Valley:
 - Few navigated through the nebulous times and succeeded
 - Few will survive, and those who did would never be the same
 - When a 10X change is upon us, you could either accept the changes and adapt, or accept a slow decline - which is not a choice at all!
+
+9. The Internet: Signal or Noise? Threat or Promise?
+"Anything that can affect industries whose total revenue base is many hundreds of billions of dollars is a big deal"
+
+- When the IPO of Netscape happened, its stock price soared, because it was based on the Internet
+- The Netscape browser was once dominant but lost to Internet Explorer and other competitors after the so-called first browser war, its market share falling from more than 90 percent in the mid-1990s to less than 1 percent in 2006
+
+What is the Internet anyway?
+- "Good co-op": People acting in their self-interest acting in the global interest as well
+- Andrew Grove was debating whether the Internet was a 10X change
+
+Bits and Stolen Eyeballs:
+- Internet was a disruption of communications => It impacted telcos
+- The Internet had pluses and minuses for the telecommunications companies. Should they hide from it or embrace it?
+- In times of crisis, always see the pluses and the minuses of the new changes. And how you can incorporate them and re-invent yourself
+- Everything that flows in the Internet is a bunch of bits. And software is a bunch of bits!
+- Prior to the Internet, software was distributed via CDs in boxes
+- The Internet also provided a new environment for building software
+- The Internet was a 10X change for mass media and advertising companies
+- Some companies lose a part of the market, and the new companies get that share of the market!
+- However, in order to "steal the eyeballs" (migrate the existing users from the old platform to the new one) a lot of introduction,
+  seminars and promotion needs to be done
+- The losses for those who would not adjust are tremendous, as possibly a new market is being born!
+
+What about us?
+- Intel's golden moment: Since due to the better communication provided via the Internet, that would make it easier for developers
+  to exchange code faster and create more complex applications which require more bits. That meant more work for Intel!
+- Threat for Intel: Light PCs which would just display the result from the computations of powerful centralized computers
+- Theory: People purchased their PERSONAL COMPUTERS in order NOT TO DEPEND on club or public computers and to store their private data
+- Andrew Grove feared that cheap CPUs might be used by the Internet machines
+- Lastly, Andrew Grove makes a step-by-step "Is it 10X Change" test on the Internet
+- "But then again, as the CEO, I might be very well the last one to notice..."
+- The "formula" let Andrew Grove think that the Internet is not a strategic inflection point. However, his gut feeling was that it _is_
+- Sometimes you realize that a lot of the knowledge "familiarity" with a technical subject is in fact - superficial
+- Even Andrew Grove has admitted that his own knowledge was "superficial" according his standards
+- Intel had to work now with new companies (telcos) in order to prepare for the strategic inflection point of the Internet
+- Andrew Grove has decided to make Internet as a separate, distinct strategic goal of Intel
+
+"...Except one last thing. What if the people who believe in the cheap Internet appliance turn out to be right?"
+- Andrew Grove didn't believe that the Internet will reverse the clock. However, he realizes his genes has adapted for the previous period, not for what is to come!
+- Only The Paranoid Survive: Intel has already started building a small, cheap inexpensive Internet chip
+- "Let this group try to derail our strategies themselves!"
+- Let the massive change come from the "internal Cassandras"
+- "A strong signal, that something has changed..."
